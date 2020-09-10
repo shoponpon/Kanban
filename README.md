@@ -4,6 +4,8 @@
 
 Reactハンズオン用に作成したアプリケーション。
 
+[https://shoponpon.github.io/Kanban/](https://shoponpon.github.io/Kanban/)
+
 ## セットアップ
 
 ```
