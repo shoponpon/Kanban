@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.d968b0cf.chunk.css",
-    "main.js": "/static/js/main.a32c3dbf.chunk.js",
-    "main.js.map": "/static/js/main.a32c3dbf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ee53c0ef.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ee53c0ef.js.map",
-    "static/css/2.764ccc25.chunk.css": "/static/css/2.764ccc25.chunk.css",
-    "static/js/2.fd1b9dc6.chunk.js": "/static/js/2.fd1b9dc6.chunk.js",
-    "static/js/2.fd1b9dc6.chunk.js.map": "/static/js/2.fd1b9dc6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2872d9a420782bd6495ec6abc3dedead.js": "/precache-manifest.2872d9a420782bd6495ec6abc3dedead.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.764ccc25.chunk.css.map": "/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.d968b0cf.chunk.css.map": "/static/css/main.d968b0cf.chunk.css.map",
-    "static/js/2.fd1b9dc6.chunk.js.LICENSE.txt": "/static/js/2.fd1b9dc6.chunk.js.LICENSE.txt"
+    "main.css": "/Kanban/static/css/main.d968b0cf.chunk.css",
+    "main.js": "/Kanban/static/js/main.9e24e803.chunk.js",
+    "main.js.map": "/Kanban/static/js/main.9e24e803.chunk.js.map",
+    "runtime-main.js": "/Kanban/static/js/runtime-main.342bd006.js",
+    "runtime-main.js.map": "/Kanban/static/js/runtime-main.342bd006.js.map",
+    "static/css/2.764ccc25.chunk.css": "/Kanban/static/css/2.764ccc25.chunk.css",
+    "static/js/2.6283cee7.chunk.js": "/Kanban/static/js/2.6283cee7.chunk.js",
+    "static/js/2.6283cee7.chunk.js.map": "/Kanban/static/js/2.6283cee7.chunk.js.map",
+    "index.html": "/Kanban/index.html",
+    "precache-manifest.3d0dcacd1cde1df17331974bbc88f6ca.js": "/Kanban/precache-manifest.3d0dcacd1cde1df17331974bbc88f6ca.js",
+    "service-worker.js": "/Kanban/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/Kanban/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.d968b0cf.chunk.css.map": "/Kanban/static/css/main.d968b0cf.chunk.css.map",
+    "static/js/2.6283cee7.chunk.js.LICENSE.txt": "/Kanban/static/js/2.6283cee7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee53c0ef.js",
+    "static/js/runtime-main.342bd006.js",
     "static/css/2.764ccc25.chunk.css",
-    "static/js/2.fd1b9dc6.chunk.js",
+    "static/js/2.6283cee7.chunk.js",
     "static/css/main.d968b0cf.chunk.css",
-    "static/js/main.a32c3dbf.chunk.js"
+    "static/js/main.9e24e803.chunk.js"
   ]
 }
